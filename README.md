@@ -1,9 +1,8 @@
 ## Hi there, I'm Arif Setiawan 👋
 
 Hello, My name is **`Arif Setiawan`** and you can call me **`Arif`**. I am from **`Bandar Lampung, Indonesia`**.<br>
-My favorite food is **`Karedok`** and my favorite drink is **`Coffee`**.
-<br><br>
-**`You can now buy me a coffee!`**
+My favorite food is **`Karedok`** and my favorite drink is **`Coffee`**.<br>
+**`You can now buy me a coffee! :wink:`**
 
 <br>
 
