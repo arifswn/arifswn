@@ -3,8 +3,11 @@
 
 Hello, My name is **`Arif Setiawan`** and you can call me **`Arif`**. I am from **`Bandar Lampung`**, My nationality is **`Indonesia`**. My favorite food is **`Karedok`** and my favorite drink is **`Coffee`**. 
 
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/arifswn) <a href="https://sinautech.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://sinautech.id-blue" /></a>
+
+<br>
 
 ## Github Stats
 | Github Performance | Most Used Language |
