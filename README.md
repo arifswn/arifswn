@@ -5,7 +5,7 @@ My favorite food is **`Karedok`** and my favorite drink is **`Coffee`**. You can
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/arifswn) <a href="https://sinautech.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://sinautech.id-blue" /></a>
+![Profile views](https://gpvc.arturio.dev/arifswn) <a href="https://arsetsoft.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://arsetsoft.id-blue" /></a>
 
 ## Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=arifswn&show_icons=true&theme=radical)
