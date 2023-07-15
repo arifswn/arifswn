@@ -4,7 +4,7 @@ Hello, My name is **`Arif Setiawan`** and you can call me **`Arif`**. I am from 
 My favorite food is **`Karedok`** and my favorite drink is **`Coffee`**. You can now buy me a coffee! :wink:
 
 <br>
-![Profile views](https://gpvc.arturio.dev/[arifswn])
+![](https://komarev.com/ghpvc/?username=arifswn)
 <a href="https://arsetsoft.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://arsetsoft.id-blue" /></a>
 
 ## Github Stats
