@@ -4,7 +4,7 @@ Hello, My name is **`Arif Setiawan`** and you can call me **`Arif`**. I am from 
 My favorite food is **`Karedok`** and my favorite drink is **`Coffee`**. You can now buy me a coffee! :wink:
 
 <br>
-![](https://komarev.com/ghpvc/?username=arifswn&style=flat-square) <a href="https://arsetsoft.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://arsetsoft.id-blue" /></a>
+![](https://komarev.com/ghpvc/?username=arifswn&color=green) <a href="https://arsetsoft.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://arsetsoft.id-blue" /></a>
 
 ## Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=arifswn&show_icons=true&theme=radical)
