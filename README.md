@@ -5,9 +5,6 @@ My favorite food is **`Karedok`** and my favorite drink is **`Coffee`**. You can
 
 <br>![](https://komarev.com/ghpvc/?username=arifswn&style=flat) <a href="https://arsetsoft.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://arsetsoft.id-blue" /></a>
 
-## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=arifswn&show_icons=true&theme=radical)
-
 ## Let's Connect!
 If you want to know more about me or collaborate, feel free to contact me at :
 <p>
